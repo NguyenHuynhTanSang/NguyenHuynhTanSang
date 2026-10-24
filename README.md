@@ -3,10 +3,11 @@
 I'm an Information Technology student at **Van Lang University**, passionate about software development and building practical web applications.
 I'm currently focusing on **Full-stack Development** and looking for an opportunity to grow as a **Full-stack Developer Intern**.
 ### Tech Stack
-**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
-**Backend:** Python, FastAPI, Node.js, Express.js
-**Database:** PostgreSQL, MongoDB
-**Tools & Technologies:** Git, GitHub, REST APIs, JWT Authentication
+
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+- **Backend:** Python, FastAPI, Node.js, Express.js
+- **Database:** PostgreSQL, MongoDB
+- **Tools & Technologies:** Git, GitHub, REST APIs, JWT Authentication
 ### Featured Projects
 #### 🏠 [Rosehome Rental Management](https://github.com/NguyenHuynhTanSang/rosehome-rental-management-portfolio)
 A full-stack rental property management system built with React, TypeScript, FastAPI, and PostgreSQL.
